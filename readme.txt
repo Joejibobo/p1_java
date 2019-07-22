@@ -1,1 +1,1 @@
-project1_java:Test
+project1_java:
